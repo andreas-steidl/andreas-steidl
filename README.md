@@ -78,17 +78,17 @@ Hund: Lola, eine Berner Sennenhündin. Vier Spaziergänge am Tag, dort fallen di
 
 ---
 
-<p align="center">
-  <a href="https://www.steidl.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/steidl-dunkel.svg"><img src="bilder/steidl-hell.svg" alt="Andreas Steidl" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.steidl-it.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/steidl-it-dunkel.svg"><img src="bilder/steidl-it-hell.svg" alt="Steidl IT GmbH" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.setupfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/setup-foundry-dunkel.svg"><img src="bilder/setup-foundry-hell.svg" alt="Setup Foundry" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://special.at"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/special-dunkel.svg"><img src="bilder/special-hell.svg" alt="special.at" height="28"></picture></a>
-</p>
+<table width="100%"><tr>
+<td align="center" valign="middle" width="25%"><a href="https://www.steidl.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/steidl-dunkel.svg"><img src="bilder/steidl-hell.svg" alt="Andreas Steidl" height="36"></picture></a></td>
+<td align="center" valign="middle" width="25%"><a href="https://www.steidl-it.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/steidl-it-dunkel.svg"><img src="bilder/steidl-it-hell.svg" alt="Steidl IT GmbH" height="36"></picture></a></td>
+<td align="center" valign="middle" width="25%"><a href="https://www.setupfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/setup-foundry-dunkel.svg"><img src="bilder/setup-foundry-hell.svg" alt="Setup Foundry" height="36"></picture></a></td>
+<td align="center" valign="middle" width="25%"><a href="https://special.at"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/special-dunkel.svg"><img src="bilder/special-hell.svg" alt="special.at" height="30"></picture></a></td>
+</tr></table>
 
 <!-- Zeile Falzbein: Signets und Adressen folgen von Falzbein -->
 
 <p align="center">
   <a href="https://www.autistenhilfe.at"><img src="bilder/autistenhilfe.svg" alt="Österreichische Autistenhilfe" height="56"></a><br>
-  <sub>President of <a href="https://www.autistenhilfe.at">Autistenhilfe</a>. With the association since 1994, 240 employees.<br>
-  Obmann der <a href="https://www.autistenhilfe.at">Autistenhilfe</a>. Im Verein seit 1994, 240 Angestellte.</sub>
+  <sub>Volunteer president of <a href="https://www.autistenhilfe.at">Autistenhilfe</a>, a non-profit. With the association since 1994, 240 employees.<br>
+  Ehrenamtlicher Obmann der <a href="https://www.autistenhilfe.at">Autistenhilfe</a>. Im Verein seit 1994, 240 Angestellte.</sub>
 </p>
