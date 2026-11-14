@@ -85,7 +85,12 @@ Hund: Lola, eine Berner Sennenhündin. Vier Spaziergänge am Tag, dort fallen di
 <td align="center" valign="middle" width="25%"><a href="https://special.at"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/special-dunkel.svg"><img src="bilder/special-hell.svg" alt="special.at" height="30"></picture></a></td>
 </tr></table>
 
-<!-- Zeile Falzbein: Signets und Adressen folgen von Falzbein -->
+<p align="center">
+  <a href="https://falzbein.special.at/"><img src="bilder/falzbein.svg" alt="Falzbein" height="36"></a>&nbsp;
+  <sub><a href="https://falzbein.special.at/">Falzbein</a>, the artist in residence: cabaret, stage, Christmas &middot; der Hauskünstler: Kabarett, Bühne, Weihnachten</sub>
+</p>
+
+<!-- weitere Signets (Bühne, Weihnachtsbaum, Kabaretts) folgen von Falzbein -->
 
 <p align="center">
   <a href="https://www.autistenhilfe.at"><img src="bilder/autistenhilfe.svg" alt="Österreichische Autistenhilfe" height="56"></a><br>
