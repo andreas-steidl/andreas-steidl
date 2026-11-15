@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="bilder/goldfaden-schreibtisch_1600.jpg" alt="Goldfadens Schreibtisch am Abend, darunter schläft sein Berner Sennenhund. Bild von Falzbein, 15.11.2026." width="100%">
+</p>
+
+<p align="center">
   <a href="https://www.setupfoundry.com"><picture><source media="(prefers-color-scheme: dark)" srcset="bilder/setup-foundry-dunkel.svg"><img src="bilder/setup-foundry-hell.svg" alt="Setup Foundry, mein aktuelles Hauptprojekt" height="96"></picture></a>
 </p>
 
